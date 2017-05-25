@@ -1,0 +1,1 @@
+Helsingin Seudun Liikenteellä on jälleen teknisiä ongelmia vanhan Reittioppaan toiminnassa. Ainakin junien aikatauluissa on ollut helatorstaina virheitä. Suosittelemme ottamaan käyttöön uuden Reittioppaan. Voit kytkeä sen päälle menemällä Asetukset / Lisäasetukset ja poistamalla "Vanha Reittiopas" -valinnan. Pahoittelut ongelmista!
