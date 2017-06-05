@@ -1,1 +1,0 @@
-Helsingin seudun liikenteellä (HSL) on yhä teknisiä ongelmia vanhan Reittioppaan toiminnassa. Aikatauluissa saattaa olla virheitä erityisesti pyhäpäivinä ja sunnuntaisin. Suosittelemme ottamaan käyttöön uuden Reittioppaan. Voit kytkeä sen päälle menemällä Asetukset / Lisäasetukset ja poistamalla "Vanha Reittiopas" -valinnan. HSL on luvannut korjata ongelman ensi viikon aikana.
