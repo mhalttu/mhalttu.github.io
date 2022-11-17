@@ -1,1 +1,1 @@
-
+Torstaina 17. marraskuuta HSL teki etukäteen ilmoittamatta muutoksen joka saa ReittiGPS:n luulemaan että palvelu on alhaalla. Olen lähettänyt Applelle hyväksyttäväksi uuden version joka korjaa ongelman. Pahoitteluni häiriöstä!
