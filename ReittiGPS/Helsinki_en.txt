@@ -1,1 +1,1 @@
-
+On the 17th of November, HSL made an unnannounced change that makes ReittiGPS mistakenly think the service is down. I've submitted a new build that fixes the issue. My apologies for the inconvenience.
