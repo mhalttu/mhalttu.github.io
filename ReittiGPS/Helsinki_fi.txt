@@ -1,1 +1,1 @@
-Torstaina 17. marraskuuta HSL teki etukäteen ilmoittamatta muutoksen joka saa ReittiGPS:n luulemaan että palvelu on alhaalla. Ohjelmasta on nyt julkaistu versio 2.16.3 joka korjaa kyseisen virhetilanteen. Pahoitteluni häiriöstä!
+
